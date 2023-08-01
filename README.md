@@ -1,2 +1,2 @@
 # sortingAlgorithms
-Implementation of 22 different sorting algorithms for arrays of integers in Java for fun.
+Personal coding proejct to implement 22 different algorithms for sorting arrays of integers in Java.
